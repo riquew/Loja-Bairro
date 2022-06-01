@@ -6,3 +6,6 @@ To-do list:
 - user authentication,
 - render products in index,
 - apply react
+
+##To check the products:
+Use /prod/(product-id)
